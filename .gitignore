@@ -1,0 +1,38 @@
+# ---- Windows
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+# User-specific files + Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.psess
+*.vsp
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Roslyn
+*.sln.ide/
+
+# SonarQube
+.sonar/
+.sonarqube/
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
