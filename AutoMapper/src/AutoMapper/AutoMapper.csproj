@@ -17,6 +17,8 @@
     <RepositoryUrl>https://github.com/AutoMapper/AutoMapper</RepositoryUrl>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
+    <CodeAnalysisRuleSet>..\..\..\..\ValidationRuleset.ruleset</CodeAnalysisRuleSet>
+    <ProjectGuid>025B9F93-7953-454B-AF29-E6A55B2AA58F</ProjectGuid>
   </PropertyGroup>
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard2.0' ">

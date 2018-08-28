@@ -5,6 +5,8 @@
     <AssemblyName>AutoMapper.IntegrationTests</AssemblyName>
     <PackageId>AutoMapper.IntegrationTests</PackageId>
     <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+    <ProjectGuid>1EE3612B-FCA4-4DA5-BA9E-741A9D8DC59E</ProjectGuid>
+    <CodeAnalysisRuleSet>..\..\..\..\ValidationRuleset.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
   <ItemGroup>
